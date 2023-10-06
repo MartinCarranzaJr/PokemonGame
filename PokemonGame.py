@@ -1,4 +1,4 @@
-import readddchar
+import readchar
 import os
 import random
 import time
